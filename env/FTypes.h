@@ -1,0 +1,26 @@
+// FTypes.h		: declarations used across the training environment
+//
+// Authors		: (a)pavelmalyshkin
+// License		: ELEPHANT
+//
+//////////////////////////////////////////////////////////////////////
+
+#if !defined(FTYPES_H)
+#define FTYPES_H
+
+#include <assert.h>
+
+//////////////////////////////////////////////////////////////////////
+// declarations of classes
+//////////////////////////////////////////////////////////////////////
+
+// Bot.h
+class CBot;
+
+// Stage.h
+class CStage;
+
+// TrainProgram.h
+class CTrainProgram;
+
+#endif // !defined(STYPES_H)
